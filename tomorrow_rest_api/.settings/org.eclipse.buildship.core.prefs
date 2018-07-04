@@ -1,0 +1,8 @@
+#Thu May 10 14:59:03 CEST 2018
+connection.gradle.distribution=GRADLE_DISTRIBUTION(WRAPPER)
+override.workspace.settings=true
+auto.sync=false
+gradle.user.home=
+connection.project.dir=
+offline.mode=false
+build.scans.enabled=false
