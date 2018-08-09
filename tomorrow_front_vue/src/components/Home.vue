@@ -294,7 +294,7 @@ export default {
   margin: 5px;
   border: 1px solid rgb(204, 204, 204);
   border-radius: 3px;
-  display: inline-block;
+  display: inline-grid;
   max-height: 450px;
   width: 270px;
   padding: 4px 4px 0px;
