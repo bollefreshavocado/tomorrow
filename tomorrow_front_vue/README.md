@@ -16,3 +16,7 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+## Rough overview of components relations
+
+![Image of Component-Stack](https://imgur.com/zAfV4iM)
