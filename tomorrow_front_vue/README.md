@@ -21,6 +21,10 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 
 ![Image of Component-Stack](https://i.imgur.com/zAfV4iM.png)
 
+## Bus communication
+
+![Image of Bus communication](https://i.imgur.com/HuuPjQL.png)
+
 ## Little How-To
 
 - If you want to create a card just click on the "Add a Card..."-button.
