@@ -1,6 +1,6 @@
 # tomorrow_front_vue
 
-> A Vue.js project
+> This is a vue.js front-end which stacks on top of the tomorrow-api
 
 ## Build Setup
 
