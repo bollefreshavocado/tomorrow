@@ -20,3 +20,10 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 ## Rough overview of components relations
 
 ![Image of Component-Stack](https://i.imgur.com/zAfV4iM.png)
+
+## Little How-To
+
+- If you want to create a card just click on the "Add a Card..."-button.
+- If you want to delete a card hover over it and click the "d"-key on your keyboard.
+
+
