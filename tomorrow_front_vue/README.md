@@ -19,4 +19,4 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 
 ## Rough overview of components relations
 
-![Image of Component-Stack](https://imgur.com/zAfV4iM)
+![Image of Component-Stack](https://i.imgur.com/zAfV4iM.png)
