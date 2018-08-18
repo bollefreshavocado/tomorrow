@@ -6,8 +6,10 @@ Tomorrow... this should become an application which helps all of us making tomor
 
 Right now you still need a local database to run this application. Later you can run it in docker containers
 
-- Setup mysql database on your system with the name tomorrow_db exposed to port 3306
-- Start the tomorrow-API
-- Start the vue-project 
-- Go on localhost:8080 with a browser
+1. Setup mysql database on your system with a schema named "tomorrow_db" 
+- the table tasks should have the columns id, content, date, priority
+- the table users should have the columns id, created_at, emailadress, password, user_name
+2. Start the tomorrow-API
+3. Start the vue-project 
+4. Go on localhost:8080 with a browser
 
