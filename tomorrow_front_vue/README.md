@@ -29,5 +29,12 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 
 - If you want to create a card just click on the "Add a Card..."-button.
 - If you want to delete a card hover over it and click the "d"-key on your keyboard.
+- If you want to change the date when you want to do your task, just drag it to the desired list
 
+## Next Steps
 
+- Create one login-screen or button
+- Bind the google login to the authentication service
+- Remove static binds to the database
+- The lists shouldn't get sorted (maybe add position index)
+- Fix wrong card edit behaviour when blur is triggered by clicking outside of the card
