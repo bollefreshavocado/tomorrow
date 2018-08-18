@@ -41,10 +41,8 @@ public class Task {
     @JsonIgnore
     private User user;
 
-    @Column(nullable = false, updatable = false)
-    @Temporal(TemporalType.TIMESTAMP)
-    @CreatedDate
-    private Date createdAt;
+    @Column(nullable = true, updatable = true)
+    private String date;
 
     public void setUser(User user){
         this.user = user;
@@ -62,12 +60,12 @@ public class Task {
         this.id = id;
     }
 
-    public Date getCreatedAt() {
-        return createdAt;
+    public String getDate() {
+        return date;
     }
 
-    public void setCreatedAt(Date createdAt) {
-        this.createdAt = createdAt;
+    public void setDate(String date) {
+        this.date = date;
     }
 
 	/**

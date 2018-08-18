@@ -48,6 +48,10 @@ public class TaskController {
         if(taskDetails.getPriority() != null){
             task.setPriority(taskDetails.getPriority());
         }
+
+        if(taskDetails.getDate() != null){
+            task.setDate(taskDetails.getDate());
+        }
         
         Task updatedTask = taskRepository.save(task);
         return updatedTask;
